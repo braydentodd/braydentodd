@@ -6,6 +6,6 @@ A little about me:
 - 🏀 I am a HUGE basketball nerd, many of my side projects involve hoops analysis.
 - 📊 I have experience in front end development, application development, database engineering, & project management.
 - 📚 However, I am currently learning as much as I can on machine learning, computer vision, & AI.
-- 🏗️ At the moment, my personal projects are dealing with big data, web scraping, machine learning, and computer vision. Hit me up to talk about it!
+- 🏗️ At the moment, my personal projects are dealing with big data, web scraping, machine learning, & computer vision. Hit me up to talk about it!
 
 Thanks for dropping by, hope our paths cross! 🫡 
