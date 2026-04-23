@@ -1,6 +1,6 @@
 ### Hello world, I am Brayden Todd! 🫡 
 
-I’m a 2024 Computer Science grad from Spring Arbor University. I am now a DevOps Engineer for SAU :) Go Cougs!
+A 2024 Computer Science grad from Spring Arbor University, I am now a DevOps Engineer for SAU :) Go Cougs!
 
 So what does a DevOps Engineer like me do? Great question! It depends on the day...
 - Frontend Development (Vue.js, Nuxt.js)
