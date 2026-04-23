@@ -2,7 +2,7 @@
 
 I’m a 2024 Computer Science grad from Spring Arbor University. I am now a DevOps Engineer for SAU :) Go Cougs!
 
-So what does a DevOps Engineer do at a university? Great question! It depends on the day...
+So what does a DevOps Engineer like me do? Great question! It depends on the day...
 - Frontend Development (Vue.js, Nuxt.js)
 - Backend Design (PostgreSQL, Firebase, Informix)
 - Data Integrations (Bun, Python, Groovy)
