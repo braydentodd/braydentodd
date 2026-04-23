@@ -1,11 +1,23 @@
-### Hello world, I am Brayden Todd! ✌️ 
+### Hello world, I am Brayden Todd! 🫡 
 
-A little about me:
-- 👨‍🎓 I have my Bachelor's in Computer Science and am currently pursing my Master's in CS at Colorado Tech!
-- 🌟 I'm aspiring to be a data scientist/analyst and/or full stack developer!
-- 💬 My happy place is working with Python & SQL, but I am comfortable with a number of other languages.
-- 🏀 I am a HUGE basketball nerd, many of my side projects involve hoops analysis.
-- 📊 I love wrestling with data... building tables & queries, as well as building applications to make data accessible, presentible, and helpful.
-- 📚 Currently I'm finding myself super curious about machine learning, computer vision, & data viz.
+I’m a 2024 Computer Science grad from Spring Arbor University. I am now a DevOps Engineer for SAU :) Go Cougs!
 
-Thanks for dropping by, hope our paths cross! 🫡 
+So what does a DevOps Engineer do at a university? Great question! It depends on the day...
+- Frontend Development (Vue.js, Nuxt.js)
+- Backend Design (PostgreSQL, Firebase, Informix)
+- Data Integrations (Bun, Python, Groovy)
+- Identity & Access Management (Salesforce, Entra)
+- Deployment Operations & Website Hosting (Docker, Nomad, AWS, Nginx, Cloudflare)
+- Among others!
+
+
+But what do I enjoy doing in my freetime? Thanks for asking! Let me finish reviewing this RAPM formula...
+
+- (When I'm not hanging out with my awesome wife or family/friends,)
+- It looks like a lot of basketball (watching, analyzing, playing, video gaming), so naturally most of my personal coding projects revolve around hoops!
+- Python and TypeScript are my bread and butter.
+- Yes, I use AI. No, I don't vibe code.
+- I have been having fun lately leveraging GitHub Actions, Oracle OCI, & Google Sheets to create a full multi-league basketball data pipeline and analysis hub. It's pretty cool and I'll keep y'all posted on it.
+- I am starting to plan out a basketball computer vision data extraction project that I am super excited about!
+
+That's me! Hit me up if you want to talk hoops or anything else. Hope our paths cross! ✌️
