@@ -18,6 +18,6 @@ But what do I enjoy doing in my freetime? Thanks for asking! Let me finish revie
 - Python and TypeScript are my bread and butter.
 - Yes, I use AI. No, I don't vibe code.
 - I have been having fun lately leveraging GitHub Actions, Oracle OCI, & Google Sheets to create a full multi-league basketball data pipeline and analysis hub. It's pretty cool and I'll keep y'all posted on it.
-- I am starting to plan out a basketball computer vision data extraction project that I am super excited about!
+- I'm in the planning stages of cooking up a basketball-specific computer vision project with a couple different goals in mind (super excited about this one)!
 
 That's me! Hit me up if you want to talk hoops or anything else. Hope our paths cross! ✌️
