@@ -4,7 +4,7 @@ A 2024 Computer Science grad from Spring Arbor University, I am now a DevOps Eng
 
 So what does a DevOps Engineer like me do? Great question! It depends on the day...
 - Frontend Development (Vue.js, Nuxt.js)
-- Backend Design (PostgreSQL, Firebase, Informix)
+- Backend Mangement (PostgreSQL, Firebase, Informix)
 - Data Integrations (Bun, Python, Groovy)
 - Identity & Access Management (Salesforce, Entra)
 - Deployment Operations & Website Hosting (Docker, Nomad, AWS, Nginx, Cloudflare)
