@@ -8,7 +8,7 @@ So what does a DevOps Engineer like me do? Great question! It depends on the day
 - Data Integrations (Bun, Python, Groovy)
 - Identity & Access Management (Salesforce, Entra)
 - Deployment Operations & Website Hosting (Docker, Nomad, AWS, Nginx, Cloudflare)
-- Among others!
+- Among other things!
 
 
 But what do I enjoy doing in my freetime? Thanks for asking! Let me finish reviewing this RAPM formula...
