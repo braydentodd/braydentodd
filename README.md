@@ -13,7 +13,7 @@ So what does a DevOps Engineer like me do? Great question! It depends on the day
 
 But what do I enjoy doing in my freetime? Thanks for asking! Let me finish reviewing this RAPM formula...
 
-- (When I'm not hanging out with my awesome wife or family/friends,)
+- (When I'm not hanging out with my awesome wife or family/friends)
 - It looks like a lot of basketball (watching, analyzing, playing, video gaming), so naturally most of my personal coding projects revolve around hoops!
 - Python and TypeScript are my bread and butter.
 - Yes, I use AI. No, I don't vibe code.
